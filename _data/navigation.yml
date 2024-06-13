@@ -1,0 +1,38 @@
+# main links
+main:
+  - title: Fonctionnalités
+    url: /fonctionnalites/    
+  - title: Des questions ?
+    url: /des-questions/
+
+fonctionnalites:
+  - title: Registres
+    children:
+      - title: "Entreprise"
+        url: /fonctionnalites/entreprise/
+      - title: "Météo"
+        url: /fonctionnalites/meteo/
+      - title: "Concentrateur"
+        url: /fonctionnalites/concentrateur/
+      - title: "Évaporateur"
+        url: /fonctionnalites/evaporateur/
+      - title: "Calcul PEP"
+        url: /fonctionnalites/calcul_pep/
+      - title: "Mise en contenant"
+        url: /fonctionnalites/mise_en_contenant/
+
+  - title: Outils
+    children:
+      - title: "Calculateurs"
+        url: /fonctionnalites/calculateurs/
+      - title: "Claviers"
+        url: /fonctionnalites/claviers/
+      - title: "Calendrier"
+        url: /fonctionnalites/calendrier/
+
+  - title: Export & Import
+    children:
+      - title: "Excel"
+        url: /fonctionnalites/export_excel/
+      - title: "Données"
+        url: /fonctionnalites/export_import_donnees/
